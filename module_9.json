@@ -1,0 +1,15 @@
+{
+  "name": "warp-kernel-8190",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4984,
+    "createdAt": "2026-07-12T10:45:47.625Z"
+  }
+}
